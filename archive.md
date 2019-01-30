@@ -1,5 +1,5 @@
 ---
-title: 
+title: 포스트
 bg: img_intro03.jpg
 layout: page
 permalink: "/posts/"
