@@ -1,5 +1,5 @@
 ---
-title: 기록
+title: 
 bg: img_intro03.jpg
 layout: page
 permalink: "/posts/"
