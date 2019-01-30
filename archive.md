@@ -1,6 +1,6 @@
 ---
 title: 기록
-bg: tag.jpg
+bg: img_intro03.jpg
 layout: page
 permalink: "/posts/"
 crawlertitle: All articles
