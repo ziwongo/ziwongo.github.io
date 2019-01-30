@@ -42,3 +42,7 @@ sass:
 
 
 images: '/assets/images'
+
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-admin
