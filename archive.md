@@ -1,10 +1,10 @@
 ---
-bg: "tag.jpg"
+title: 기록
+bg: tag.jpg
 layout: page
-permalink: /posts/
-title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
+permalink: "/posts/"
+crawlertitle: All articles
+summary: Posts about jekyll
 active: archive
 ---
 
