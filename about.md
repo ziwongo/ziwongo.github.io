@@ -1,6 +1,6 @@
 ---
 title: 아카데미 소개
-bg: owl.jpg
+bg: img_intro01.jpg
 layout: page
 crawlertitle: Why and how this blog was created
 permalink: "/about/"
