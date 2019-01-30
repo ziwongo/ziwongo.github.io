@@ -46,3 +46,11 @@ images: '/assets/images'
 # This will require each of these plugins automatically.
 plugins:
   - jekyll-admin
+  
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
