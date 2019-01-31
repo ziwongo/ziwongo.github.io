@@ -1,5 +1,5 @@
 ---
-title: 아카데미 소개
+title: 서비스 아카데미 소개
 bg: img_intro01.jpg
 layout: page
 crawlertitle: Why and how this blog was created
